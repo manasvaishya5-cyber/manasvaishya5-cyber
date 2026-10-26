@@ -18,6 +18,9 @@ and building useful projects.
 - HTML
 - CSS
 - JavaScript
+- C++
+- C Programing
+- Python
 - MS Office
 - Basic Computer Applications
 
