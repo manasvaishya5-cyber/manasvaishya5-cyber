@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**manasvaishya5-cyber/manasvaishya5-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Manas Vaishya 👋
 
-Here are some ideas to get you started:
+### BCA Graduate | Aspiring Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm interested in web development, computer applications,
+and building useful projects.
+
+## 👨‍💻 About Me
+- 🎓 BCA Graduate
+- 💻 Interested in web development
+- 🌱 Improving my technical skills
+- 🎯 Working towards becoming a professional web developer
+
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- MS Office
+- Basic Computer Applications
+
+## 🚀 My Projects
+- **Foodies Haven:** Restaurant website
+- **SafeHer:** Women safety website
+- **Smart Shop:** Shop management website
+- **FoodSave:** Food safety project
+
+## 📚 Currently Learning
+- Responsive Web Design
+- JavaScript
+- Git and GitHub
+
+## 🤝 Connect With Me
+- GitHub: [My GitHub Profile](https://github.com/manasvaishya5-cyber)
+
+---
+⭐ Thanks for visiting my profile!
